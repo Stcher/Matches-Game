@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Stcher/MatchesGame/static/css/main.f855e6bc.css",
+    "main.js": "/Stcher/MatchesGame/static/js/main.cb6c28d5.js",
+    "static/js/453.ed3810f9.chunk.js": "/Stcher/MatchesGame/static/js/453.ed3810f9.chunk.js",
+    "static/media/logo.svg": "/Stcher/MatchesGame/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Stcher/MatchesGame/index.html",
+    "main.f855e6bc.css.map": "/Stcher/MatchesGame/static/css/main.f855e6bc.css.map",
+    "main.cb6c28d5.js.map": "/Stcher/MatchesGame/static/js/main.cb6c28d5.js.map",
+    "453.ed3810f9.chunk.js.map": "/Stcher/MatchesGame/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.cb6c28d5.js"
+  ]
+}
